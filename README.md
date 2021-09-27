@@ -1,7 +1,7 @@
 # Blockchain_with_Python
 
 
-The goal fo this exercise is: 
+The goal fo this exercise is to: 
 
 
 1. Build a functional blockchain that eases and records transactions.
