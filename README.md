@@ -15,22 +15,22 @@ The goal fo this exercise is:
 
 This project leverages python version 3.8.5 with the following packages and modules:
 
-1. [Streamlit] (https://streamlit.io); Streamlit turns data scripts into shareable web apps in minutes
+1. [Streamlit](https://streamlit.io);  Streamlit turns data scripts into shareable web apps in minutes
 
 
-2. [Datetime] (https://docs.python.org/3/library/datetime.html)The datetime module supplies classes for manipulating dates and times
+2. [Datetime](https://docs.python.org/3/library/datetime.html) The datetime module supplies classes for manipulating dates and times
 
 
-3. [Dataclasses] (https://docs.python.org/3/library/dataclasses.html)This module provides a decorator and functions for automatically adding generated
+3. [Dataclasses](https://docs.python.org/3/library/dataclasses.html) This module provides a decorator and functions for automatically adding generated
 
 
-4. [Typing] (https://docs.python.org/3/library/typing.html#module-typing)This module provides runtime support for type hints
+4. [Typing](https://docs.python.org/3/library/typing.html#module-typing) This module provides runtime support for type hints
 
 
-5. [Pandas] (https://pandas.pydata.org)pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
+5. [Pandas](https://pandas.pydata.org) pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
 
 
-6. [Hashlib] (https://docs.python.org/3/library/hashlib.html)This module implements a common interface to many different secure hash and message digest algorithms
+6. [Hashlib](https://docs.python.org/3/library/hashlib.html) This module implements a common interface to many different secure hash and message digest algorithms
 
 # Installations 
 
