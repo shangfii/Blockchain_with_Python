@@ -53,6 +53,6 @@ Make sure all the packages listed above in Technologies used are installed and r
 4. on the streamlit page; Adjust the nonce, Enter the required informatoin on the fields click where appropriate 
 
 The following image shows: several blocks created and confirmed validations 
-
+![several blocks created and confirmed validations ](https://github.com/shangfii/Blockchain_with_Python/blob/main/Working_code.png)
 
 
