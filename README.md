@@ -13,7 +13,7 @@ The goal fo this exercise is:
 
 # Technologies used
 
-This project leverages python version 3.8.5 with the following packages and modules:
+This project leverages [python](https://www.python.org/) version 3.8.5 with the following packages and modules:
 
 1. [Streamlit](https://streamlit.io);  Streamlit turns data scripts into shareable web apps in minutes
 
